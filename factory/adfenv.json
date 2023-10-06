@@ -1,0 +1,9 @@
+{
+	"name": "adfenv",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "46931d37-b965-4804-b62e-e104d490587e",
+		"tenantId": "1637f92d-783a-4ade-89c3-a80b20cb7610"
+	}
+}
